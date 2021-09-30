@@ -1,0 +1,25 @@
+Отчёт о состоянии системы:
+Пользователи системы: 'root', 'systemd+', 'avahi', 'message+', 'nvidia-+', 'syslog', 'ntp', 'xrdp', 'gdm', 'rtkit', 'libvirt+', 'colord', 'whoopsie', 'kernoops', 'tester', 'cntlm'
+Процессов запущено: 447
+Пользовательских процессов: 
+ root: 292
+ tester: 85
+ gdm: 46
+ libvirt+: 9
+ avahi: 2
+ xrdp: 2
+ kernoops: 2
+ systemd+: 1
+ message+: 1
+ nvidia-+: 1
+ syslog: 1
+ ntp: 1
+ rtkit: 1
+ colord: 1
+ whoopsie: 1
+ cntlm: 1
+Всего RSS памяти используется: 17.4Mb
+Всего VSZ памяти используется: 139.2Mb
+Всего CPU используется: 140.8%
+Больше всего памяти использует: /usr/bin/qemu-system: 16.1%
+Больше всего CPU использует: /usr/bin/qemu-system: 60.1%
